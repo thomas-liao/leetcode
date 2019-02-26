@@ -18,15 +18,15 @@
   - git push origin {github帐户}:{github帐户}      //提交到远端仓库
   - 进入https://github.com/tianser/leetcode页面; 选择New pull request;
   
-  ![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/113.png）
+![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/113.png）
   - 然后create pull request，自行merge；也可以指定别人帮你review代码，在右边
   
-  ![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/115.png）
+![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/115.png）
   
-  ![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/116.png）
+![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/116.png）
   
-  ![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/118.png）
+![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/118.png）
   
-  ![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/119.png）
+![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/119.png）
   - 备注：更新冲突导致无法merge的问题，请自行google
   
