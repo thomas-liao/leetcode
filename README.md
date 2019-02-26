@@ -16,7 +16,7 @@
   - //愉快的刷题
   - git add . && git commit -s -m "{提交注解}"
   - git push origin {github帐户}:{github帐户}      //提交到远端仓库
-  - 进入https://github.com/tianser/leetcode页面; 选择New pull request;
+  - 进入https://github.com/tianser/leetcode 页面; 选择New pull request;
   
 ![avatar](https://github.com/tianser/leetcode/blob/master/tianser/img/113.png)
 
