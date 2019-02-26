@@ -19,3 +19,4 @@
   - 进入https://github.com/tianser/leetcode页面; 选择New pull request;
   - 然后create pull request，自行merge；也可以指定别人帮你review代码，在右边
   
+ git博大精深，以上仅仅使用最简单的方式来合作开发；
