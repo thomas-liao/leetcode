@@ -1,5 +1,5 @@
-##Remove Element
-####Question
+## Remove Element
+#### Question
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
@@ -27,8 +27,8 @@ Note that the order of those five elements can be arbitrary.
 It doesn't matter what values are set beyond the returned length.
 </pre>
 
-####Solution
-#####Approach #1
+#### Solution
+##### Approach #1
 
 ```java
 class Solution {
@@ -44,7 +44,7 @@ class Solution {
     }
 }
 ```
-#####Complexity
+##### Complexity
 
 * Time complexity: $O(N)$
 * Space complexity: $O(1)$

@@ -1,5 +1,5 @@
-##Find the Town Judge
-####Question
+## Find the Town Judge
+#### Question
 In a town, there are N people labelled from 1 to N.  There is a rumor that one of these people is secretly the town judge.
 
 If the town judge exists, then:
@@ -41,8 +41,8 @@ If the town judge exists and can be identified, return the label of the town jud
 <b>Input:</b> N = 4, trust = [[1,3],[1,4],[2,3],[2,4],[4,3]]
 <b>Output:</b> 3
 </pre>
-####Solution
-#####Approach #1
+#### Solution
+##### Approach #1
 
 ```java
 class Solution {
@@ -74,7 +74,7 @@ class Solution {
     
 }
 ```
-#####Complexity
+##### Complexity
 
 * Time complexity: $O()$
 * Space complexity: $O()$
