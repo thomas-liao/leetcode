@@ -5,3 +5,9 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./thomas-liao/Python/leetcode_python/27_remove_element.py)|Easy||
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Python](./thomas-liao/Python/leetcode_python/28_implement_strStr.py)|Easy||
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](./thomas-liao/Python/leetcode_python/409_Longest_Palindrome.py)|Easy||
+|407|[Permutation II](https://leetcode.com/problems/permutations-ii/) | [Python](./thomas-liao/Python/leetcode_python/47_permutation_ii.py)|Medium||
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./thomas-liao/Python/leetcode_python/58_length_of_last_word.py)|Easy||
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](./thomas-liao/Python/leetcode_python/80_remove_duplicates_from_sorted_array_II.py)|Medium||
+
+
+
