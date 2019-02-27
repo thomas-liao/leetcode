@@ -10,8 +10,12 @@
 |8|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](./thomas-liao/Python/leetcode_python/80_remove_duplicates_from_sorted_array_II.py)|Medium||
 |9|819|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./thomas-liao/Python/leetcode_python/819_most_common_word.py)|Easy||
 |10|973|[K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./thomas-liao/Python/leetcode_python/973_K_Closest_points_to_oritin.py)|Easy||
-|11|973|[K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./thomas-liao/Python/leetcode_python/973_K_Closest_points_to_oritin.py)|Easy||
+|11||[]() | [Python](./thomas-liao/Python/leetcode_python/)|||
 |12||[]() | [Python](./thomas-liao/Python/leetcode_python/)|||
+|13||[]() | [Python](./thomas-liao/Python/leetcode_python/)|||
+|14||[]() | [Python](./thomas-liao/Python/leetcode_python/)|||
+
+
 
 
 
